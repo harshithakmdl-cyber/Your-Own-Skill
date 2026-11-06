@@ -1,0 +1,11 @@
+# Submission Checklist
+- [ ] Skill starts in a fresh session.
+- [ ] Tested on 3 different inputs.
+- [ ] Same task tested without skill.
+- [ ] Comparison records actual observed differences.
+- [ ] One-question-at-a-time behavior verified.
+- [ ] Scoring and model answer verified.
+- [ ] `hint`, `skip`, `review`, and `finish` tested.
+- [ ] Screenshots captured.
+- [ ] Results template completed.
+- [ ] ZIP uploaded to the project submission portal.
